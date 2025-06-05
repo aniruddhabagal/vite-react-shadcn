@@ -1,0 +1,43 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# parcel cache
+.cache
+
+# eslint cache
+.eslintcache
+
+# output from `npm pack`
+*.tgz
+
+# Mac system files
+*.DS_Store
+
+# lock files (pick one based on what you use)
+# yarn.lock
+# pnpm-lock.yaml
