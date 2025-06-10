@@ -77,13 +77,13 @@ vite-react-shadcn/
 
 ## 📄 Scripts
 
-| Command           | Description                          |                                    |
-| ----------------- | ------------------------------------ | ---------------------------------- |
-| `npm run dev`     | Start the development server         |                                    |
-| `npm run build`   | Build the application for production |                                    |
-| `npm run preview` | Preview the production build locally |                                    |
-| `npm run lint`    | Run ESLint to analyze code           |                                    |
-| `npm run format`  | Format code using Prettier           | ([github.com][3], [github.com][4]) |
+| Command           | Description                          |
+| ----------------- | ------------------------------------ |
+| `npm run dev`     | Start the development server         |
+| `npm run build`   | Build the application for production |
+| `npm run preview` | Preview the production build locally |
+| `npm run lint`    | Run ESLint to analyze code           |
+| `npm run format`  | Format code using Prettier           |
 
 ---
 
